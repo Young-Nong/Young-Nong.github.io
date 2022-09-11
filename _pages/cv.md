@@ -47,7 +47,7 @@ Yu Nong, Yuzhe Ou, Michael Pradel, Feng Chen, Haipeng Cai. *ACM Joint Meeting on
 Yu Nong, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology, 137, 106614. 2021*
 
 * **[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)** \
-* Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020*
+Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020*
   
   
 Teaching Experience
