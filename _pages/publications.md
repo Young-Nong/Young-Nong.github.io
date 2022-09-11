@@ -12,12 +12,12 @@ redirect_from:
 
 **[Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study](https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study)**
 
-Nong, Y., Ou, Y., Pradel, M., Chen, F., & Cai, H. (2022). Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study. In *ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*
+Yu Nong, Yuzhe Ou, Michael Pradel, Feng Chen, Haipeng Cai. *ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022*
 
 **[Evaluating and comparing memory error vulnerability detectors](https://www.researchgate.net/publication/351374599_Evaluating_and_comparing_memory_error_vulnerability_detectors)**
 
-Nong, Y., Cai, H., Ye, P., Li, L., & Chen, F. (2021). Evaluating and comparing memory error vulnerability detectors. *Information and Software Technology, 137, 106614.*
+Yu Nong, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology, 137, 106614. 2021*
 
 **[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)**
 
-Nong, Y., & Cai, H. (2020, February). A preliminary study on open-source memory vulnerability detectors. *In 2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). IEEE.*
+Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020*
