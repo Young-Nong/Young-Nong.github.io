@@ -60,6 +60,8 @@ Skills
   * NodeJS
   * Docker
   * Linux
+  * MATLAB
+  * OpenCV
 
 Publications
 ======
