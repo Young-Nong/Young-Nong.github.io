@@ -16,7 +16,6 @@ Education
 * B.S. in Automation, South China University of Technology, 2018
 
 
-
 Work experience
 ======
 * **Summer 2020: Software Testing Consultant                                                                           	\
@@ -39,7 +38,29 @@ Work experience
   * Based on the layout from UI designer, developed web pages for browsing and editing lists of available remote consulting rooms; Switching video sources in meetings; Editing, browsing, and searching consulting reports; Managing consulting schedules for doctors and patients.
   * Used JSON to contact with the back-end server based on JSP.
 
+Publications
+======
+**[Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study](https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study)**
 
+Yu Nong, Yuzhe Ou, Michael Pradel, Feng Chen, Haipeng Cai. *ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022*
+
+**[Evaluating and comparing memory error vulnerability detectors](https://www.researchgate.net/publication/351374599_Evaluating_and_comparing_memory_error_vulnerability_detectors)**
+
+Yu Nong, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology, 137, 106614. 2021*
+
+**[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)**
+
+Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020*
+  
+  
+Teaching Experience
+======
+**Graduate Teaching Assistant**
+* **CptS 322 Software Engineering Principles I**
+  * Spring 2021
+  * Fall 2020
+* **CptS 422 Software Engineering Principles II**
+  * Fall 2020
   
 Skills
 ======
@@ -65,23 +86,7 @@ Skills
   * MATLAB
   * OpenCV
 
-Publications
-======
-**[Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study](https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study)**
 
-Yu Nong, Yuzhe Ou, Michael Pradel, Feng Chen, Haipeng Cai. *ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022*
-
-**[Evaluating and comparing memory error vulnerability detectors](https://www.researchgate.net/publication/351374599_Evaluating_and_comparing_memory_error_vulnerability_detectors)**
-
-Yu Nong, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology, 137, 106614. 2021*
-
-**[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)**
-
-Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020*
-  
-  
-Teaching
-======
 
   
 
