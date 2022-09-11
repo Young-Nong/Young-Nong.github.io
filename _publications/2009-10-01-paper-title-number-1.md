@@ -6,10 +6,6 @@ excerpt:
 date: Nov 2022
 venue: 'The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
 paperurl: 'https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study'
-citation: 'Nong, Yu & Ou, Yuzhe & Pradel, Michael & Chen, Feng & Cai, Haipeng. (2022). Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study. '
----
+citation: 'Nong, Y., Ou, Y., Pradel, M., Chen, F., & Cai, H. (2022). Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study. In ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).'
 
 
-<!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). --->
