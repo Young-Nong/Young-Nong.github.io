@@ -12,7 +12,7 @@ I am an Ph.D student in the School of Electrical Engineering and Computer Scienc
 
 # Research Projects:
 
-**Automatically generating realistic vulnerabilities for benchmarking vulnerability analysis and model training**
+**Automatically generating realistic vulnerabilities for vulnerability analysis**
 
 **Evaluating and comparing memory error vulnerability detectors**
 
