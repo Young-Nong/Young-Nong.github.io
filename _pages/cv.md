@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, South China University of Technology, 2018
+* M.S. in Computer Science, Washington State University, 2020
+* Ph.D in Computer Science, Washington State University, Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Front-End Engineer Intern 
+  Beijing Hantang Technology Stock Co., LTD,
+  * Beijing Hantang Technology Stock Co., LTD,
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
