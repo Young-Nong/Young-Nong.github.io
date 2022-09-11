@@ -1,6 +1,6 @@
 ---
-layout: archive
 permalink: /publications/
+layout: archive
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
