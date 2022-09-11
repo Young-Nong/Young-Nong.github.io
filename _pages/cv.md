@@ -52,7 +52,7 @@ Yu Nong, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, 
   
 Teaching Experience
 ======
-**Graduate Teaching Assistant**
+## Graduate Teaching Assistant
 * **CptS 322 Software Engineering Principles I**
   * Spring 2021
   * Fall 2020
