@@ -61,12 +61,12 @@ A preliminary results of a study on memory vulnerability detectors based on (sta
   
 Teaching Experience
 ======
-## Graduate Teaching Assistant
-* **CptS 322 Software Engineering Principles I**
-  * Spring 2021
-  * Fall 2020
-* **CptS 422 Software Engineering Principles II**
-  * Fall 2020
+* **Graduate Teaching Assistant**
+  * **CptS 322 Software Engineering Principles I**
+    * Spring 2021
+    * Fall 2020
+  * **CptS 422 Software Engineering Principles II**
+    * Fall 2020
   
 Skills
 ======
