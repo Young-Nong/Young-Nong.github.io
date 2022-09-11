@@ -1,16 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+**[Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study](https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study)**
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Nong, Y., Ou, Y., Pradel, M., Chen, F., & Cai, H. (2022). Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study. In *ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*
