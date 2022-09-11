@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
@@ -7,6 +8,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+{% include base_path %}
 
 **[Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study](https://www.researchgate.net/publication/361835991_Generating_Realistic_Vulnerabilities_via_Neural_Code_Editing_An_Empirical_Study)**
 
