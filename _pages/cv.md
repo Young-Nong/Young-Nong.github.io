@@ -17,11 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2019: Front-End Engineer Intern 
-  Beijing Hantang Technology Stock Co., LTD,
-  * Beijing Hantang Technology Stock Co., LTD,
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Front-End Engineer Intern \
+  Beijing Hantang Technology Stock Co., LTD, Beijing, China
+  * Developed a front-end module for remote consulting rooms in a large-scale digital cooperation platform for more than 100 hospitals based on HTML, CSS, Javascript and jQuery.
+  * Based on the layout from UI designer, developed web pages for browsing and editing lists of available remote consulting rooms; Switching video sources in meetings; Editing, browsing, and searching consulting reports; Managing consulting schedules for doctors and patients.
+  * Used JSON to contact with the back-end server based on JSP.
+
 
 * Fall 2015: Research Assistant
   * Github University
