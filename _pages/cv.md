@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* **Software Testing Consultant                                                                           	\
+* **Summer 2020: Software Testing Consultant                                                                           	\
   Optimum Semiconductor Technologies Inc., Tarrytown, NY**
   * Configured the integrated development environment (IDE) of SandBlaster SB3500 System on a Chip (SoC).
   * Developed test programs and did functional test of multithreading, pipelining, intrinsic, and RPU on SandBlaster SB3500 Simulator.
@@ -43,12 +43,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C
+  * C++
+  * Python
+  * Java
+  * C#
+  * JavaScript
+* Technologies:
+  * System Programming
+  * Pattern Matching
+  * Machine Learning
+  * Computer Network
+  * HTML
+  * CSS
+  * NodeJS
+  * Docker
+  * Linux
 
 Publications
 ======
