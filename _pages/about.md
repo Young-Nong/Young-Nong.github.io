@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 I am an Ph.D student in the School of Electrical Engineering and Computer Science (EECS) at Washington State University, Pullman. My advisor is Prof. Haipeng Cai[https://chapering.github.io/]. My research fields include Software Engineering and Software Security.
+
+# Research Projects:
+
+## Automatically generating realistic vulnerabilities for benchmarking vulnerability analysis and model training
+
+## Evaluating and comparing memory error vulnerability detectors
+
+
