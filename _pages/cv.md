@@ -26,10 +26,13 @@ Work experience
   * Used JSON to contact with the back-end server based on JSP.
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: IT Helpdesk Tech Intern	\
+  Intuitive Networks, Inc., Newport Beach, CA
+  * Configured Site-to-Site VPN on Cisco Meraki MX68 so that remote employees around the country could connect to the internal network at the headquarters by their Sonicwall TZ300s.
+  * Configured more than 50 Sonicwall TZ300s so that they could conncet to the internal network at the headquaters correctly.
+  * Upgraded firmware on more than 50 Sonicwall TZ300s.
+  * Configured LDAP Authentication on more than 50 Sonicwall TZ300s.
+
   
 Skills
 ======
