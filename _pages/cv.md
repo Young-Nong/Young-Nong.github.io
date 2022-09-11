@@ -50,16 +50,18 @@ Skills
   * Java
   * C#
   * JavaScript
+  * SQL
+  * HTML
+  * CSS
 * Technologies:
   * System Programming
   * Pattern Matching
   * Machine Learning
   * Computer Network
-  * HTML
-  * CSS
   * NodeJS
   * Docker
   * Linux
+  * Git
   * MATLAB
   * OpenCV
 
