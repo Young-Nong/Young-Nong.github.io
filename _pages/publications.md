@@ -18,8 +18,8 @@ A study that explores the feasibility of vulnerability injection through neural 
 
 **[Evaluating and comparing memory error vulnerability detectors](https://www.researchgate.net/publication/351374599_Evaluating_and_comparing_memory_error_vulnerability_detectors)** \
 **Yu Nong**, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology, 137, 106614. 2021* \
-An empirical study that evaluates and compares state-of-the-art memory error vulnerability detectors against publically available benchmark datasets of C/C++ programs, with case studies to gain in-depth explanations of successes and failures of individual tools.
+An empirical study that evaluates and compares state-of-the-art memory error vulnerability detectors against publicly available benchmark datasets of C/C++ programs, with case studies to gain in-depth explanations of successes and failures of individual tools.
 
 **[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)** \
 **Yu Nong**, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020* \
-A preliminary results of a study on memory vulnerability detectors based on (static and/or dynamic)program analysis, against a public suite of 520 C/C++ programsas benchmarks which cover 14 different vulnerability categories.
+Preliminary results of a study on memory vulnerability detectors based on (static and/or dynamic)program analysis, against a public suite of 520 C/C++ programsas benchmarks which cover 14 different vulnerability categories.
