@@ -40,7 +40,7 @@ Work experience
 
 Publications
 ======
-* **[Open Science in Software Engineering: A Study on Deep Learning-Based Vulnerability Detection](https://young-nong.github.io/publications/)** \
+* **[Open Science in Software Engineering: A Study on Deep Learning-Based Vulnerability Detection](https://www.researchgate.net/publication/363535723_Open_Science_in_Software_Engineering_A_Study_on_Deep_Learning-Based_Vulnerability_Detection)** \
 **Yu Nong**, Rainy Sharma, Abdelwahab Hamou-Lhadj, Xiapu Luo, Haipeng Cai. *IEEE Transactions on Software Engineering 2022.* \
 An empirical study that exhaustively searches the literature in the area of deep learning-based vulnerability detection and comprehensively investigates the four integral aspects of open science: availability, executability, reproducibility, and replicability.
 
