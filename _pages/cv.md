@@ -71,26 +71,9 @@ Teaching Experience
 Skills
 ======
 * Programming Languages
-  * C
-  * C++
-  * Python
-  * Java
-  * C#
-  * JavaScript
-  * SQL
-  * HTML
-  * CSS
+  * C, C++, Python, Java, C#, JavaScript, SQL, HTML, CSS
 * Technologies:
-  * System Programming
-  * Pattern Matching
-  * Machine Learning
-  * Computer Network
-  * NodeJS
-  * Docker
-  * Linux
-  * Git
-  * MATLAB
-  * OpenCV
+  * System Programming, Pattern Matching, Machine Learning, Computer Network, NodeJS, Docker, Linux, Git, MATLAB, OpenCV
 
 
 
