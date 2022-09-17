@@ -22,4 +22,4 @@ An empirical study that evaluates and compares state-of-the-art memory error vul
 
 **[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)** \
 **Yu Nong**, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020* \
-Preliminary results of a study on memory vulnerability detectors based on (static and/or dynamic)program analysis, against a public suite of 520 C/C++ programs as benchmarks which cover 14 different vulnerability categories.
+Preliminary results of a study on memory vulnerability detectors based on (static and/or dynamic) program analysis, against a public suite of 520 C/C++ programs as benchmarks which cover 14 different vulnerability categories.
