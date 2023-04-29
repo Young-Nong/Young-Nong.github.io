@@ -6,6 +6,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 {% include base_path %}
+
 **[VulGen: Realistic Vulnerable Sample Generation via Pattern Mining and Deep Learning](https://www.researchgate.net/publication/368358322_VULGEN_Realistic_Vulnerability_Generation_Via_Pattern_Mining_and_Deep_Learning)** \
 **Yu Nong**, Yuzhe Ou, Michael Pradel, Feng Chen, and Haipeng Cai. *IEEE/ACM International Conference on Software Engineering (ICSE), 2023.* 
 We present VulGen, the first injection-based vulnerability-generation technique that is not limited to a particular class of vulnerabilities. It combines the
