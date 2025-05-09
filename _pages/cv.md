@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Washington State University, Present, GPA: 3.92
-* M.S. in Computer Science, Washington State University, 2020, GPA: 3.96
-* B.S. in Automation, South China University of Technology, 2018
+* Ph.D in Computer Science, University at Buffalo, 2024-Present, GPA: 4.0
+* Ph.D in Computer Science, Washington State University, 2020-2024 GPA: 3.92
+* M.S. in Computer Science, Washington State University, 2018-2020, GPA: 3.96
+* B.S. in Automation, South China University of Technology, 2014-2018
 
 
 Work experience
