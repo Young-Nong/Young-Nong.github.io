@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu Nong"
 title_separator          : " "
 name                     : &name "Yu Nong"
-description              : &description "Research Assistant at Washington State University"
+description              : &description "PhD student at University at Buffalo"
 url                      : https://young-nong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "young-nong.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yu Nong"
   avatar           : "BZ1905171115200463.jpg"
-  bio              : "Research Assistant in Washington State University"
-  location         : "Pullman, WA, USA"
+  bio              : "PhD student at University at Buffalo"
+  location         : "Buffalo, NY, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ypUHqG8AAAAJ"
-  email            : "yu.nong@wsu.edu"
+  email            : "yunong@buffalo.edu"
   researchgate     : "https://www.researchgate.net/profile/Yu-Nong"
   uri              :
   bitbucket        :
