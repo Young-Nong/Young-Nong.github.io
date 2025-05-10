@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in the Department of Computer Science and Engineering at University at Buffalo. Before moving to University at Buffalo, I was a Ph.D candidate in the School of Electrical Engineering and Computer Science at Washington State University. My advisor is Dr. [Haipeng Cai](https://chapering.github.io/). My research interests are in Software Engineering and Software Security.
+I am a Ph.D student in the [Department of Computer Science and Engineering at University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). Before that, I was a Ph.D candidate in the School of Electrical Engineering and Computer Science at Washington State University. My advisor is Dr. [Haipeng Cai](https://chapering.github.io/). My research interests are in Software Engineering and Software Security.
 
 # Research Projects:
 
