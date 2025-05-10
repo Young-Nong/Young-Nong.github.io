@@ -16,29 +16,6 @@ Education
 * M.S. in Computer Science, Washington State University, 2018-2020, GPA: 3.96
 * B.S. in Automation, South China University of Technology, 2014-2018
 
-
-Work experience
-======
-* **Summer 2020: Software Testing Consultant                                                                           	\
-  Optimum Semiconductor Technologies Inc., Tarrytown, NY**
-  * Configured the integrated development environment (IDE) of SandBlaster SB3500 System on a Chip (SoC).
-  * Developed test programs and did functional tests of multithreading, pipelining, intrinsic, and RPU on SandBlaster SB3500 Simulator.
-  * Tested the compiler, linker, and IDE of SandBlaster SB3500.
-  * Reviewed and revised the manual of SandBlaster SB3500.
-
-* **Fall 2019: IT Helpdesk Tech Intern	\
-  Intuitive Networks, Inc., Newport Beach, CA**
-  * Configured Site-to-Site VPN on Cisco Meraki MX68 so that remote employees around the country could connect to the internal network at the headquarters by their Sonicwall TZ300s.
-  * Configured more than 50 Sonicwall TZ300s so that they could connect to the internal network at the headquarters correctly.
-  * Upgraded firmware on more than 50 Sonicwall TZ300s.
-  * Configured LDAP Authentication on more than 50 Sonicwall TZ300s.
-
-* **Summer 2019: Front-End Engineer Intern \
-  Beijing Hantang Technology Stock Co., LTD, Beijing, China**
-  * Developed a front-end module for remote consulting rooms in a large-scale digital cooperation platform for more than 100 hospitals based on HTML, CSS, Javascript and jQuery.
-  * Based on the layout from the UI designer, developed web pages for browsing and editing lists of available remote consulting rooms; Switching video sources in meetings; Editing, browsing, and searching consulting reports; Managing consulting schedules for doctors and patients.
-  * Used JSON to contact the back-end server based on JSP.
-
 Publications
 ======
 * **[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://chapering.github.io/pubs/sec25.pdf)** \
@@ -101,7 +78,29 @@ Teaching Experience
     * Fall 2020
   * **CptS 422 Software Engineering Principles II**
     * Fall 2020
-  
+
+Work experience
+======
+* **Summer 2020: Software Testing Consultant                                                                           	\
+  Optimum Semiconductor Technologies Inc., Tarrytown, NY**
+  * Configured the integrated development environment (IDE) of SandBlaster SB3500 System on a Chip (SoC).
+  * Developed test programs and did functional tests of multithreading, pipelining, intrinsic, and RPU on SandBlaster SB3500 Simulator.
+  * Tested the compiler, linker, and IDE of SandBlaster SB3500.
+  * Reviewed and revised the manual of SandBlaster SB3500.
+
+* **Fall 2019: IT Helpdesk Tech Intern	\
+  Intuitive Networks, Inc., Newport Beach, CA**
+  * Configured Site-to-Site VPN on Cisco Meraki MX68 so that remote employees around the country could connect to the internal network at the headquarters by their Sonicwall TZ300s.
+  * Configured more than 50 Sonicwall TZ300s so that they could connect to the internal network at the headquarters correctly.
+  * Upgraded firmware on more than 50 Sonicwall TZ300s.
+  * Configured LDAP Authentication on more than 50 Sonicwall TZ300s.
+
+* **Summer 2019: Front-End Engineer Intern \
+  Beijing Hantang Technology Stock Co., LTD, Beijing, China**
+  * Developed a front-end module for remote consulting rooms in a large-scale digital cooperation platform for more than 100 hospitals based on HTML, CSS, Javascript and jQuery.
+  * Based on the layout from the UI designer, developed web pages for browsing and editing lists of available remote consulting rooms; Switching video sources in meetings; Editing, browsing, and searching consulting reports; Managing consulting schedules for doctors and patients.
+  * Used JSON to contact the back-end server based on JSP.
+
 Skills
 ======
 * Programming Languages
