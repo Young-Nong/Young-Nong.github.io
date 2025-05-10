@@ -12,9 +12,6 @@ I am a Ph.D student in the Department of Computer Science and Engineering at Uni
 
 # Research Projects:
 
-**Automatically Generating Proof-of-Vulnerabilities for Real-World Vulnerabilities** \
-Large-scale real-world vulnerability databases such as Common Vulnerabilities and Exposures (CVE) exist, yet reproducing these vulnerabilities remains challenging due to the lack of available proof-of-vulnerabilities (PoVs). In this project, we explore the automatic generation of PoVs for existing real-world vulnerabilities by leveraging relevant information such as vulnerability descriptions, vulnerable versions, and patching commits, which can then be utilized for validating vulnerability patches.
-
 **Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Analysis** \
 Timely and effective vulnerability detection and patching is essential for cybersecurity defense, for which various approaches have been proposed yet still struggle to detect and patch vulnerabilities effectively for real-world projects. In this project, we explore how to leverage large language models and in-context learning to address key software vulnerability analysis tasks: identifying given types of vulnerabilities, discovering vulnerabilities of any type, and patching detected vulnerabilities.
 
