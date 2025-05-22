@@ -35,7 +35,7 @@ Haoran Yang, **Yu Nong**, Shaowei Wang, Haipeng Cai. *IEEE Transactions on Softw
 Developing software projects that incorporate multiple languages has been a prevalent practice for many years. In this paper, we provide answers to the issues encountered by developers during the development process, the underlying challenges causing these issues, and the solutions provided to developers. 
 
 * **[Learning to Detect and Localize Multilingual Bugs](https://chapering.github.io/pubs/fse24haoran.pdf)** \
-Haoran Yang, **Yu Nong**, Tao Zhang, Xiapu Luo, Haipeng Cai. *IEEE/ACM International Conference on Software Engineering (ICSE), 2024.* \
+Haoran Yang, **Yu Nong**, Tao Zhang, Xiapu Luo, Haipeng Cai. Proceedings of the ACM on Software Engineering (FSE), 2024.* \
 Extant static/dynamic analysis and deep learning (DL) based approaches all face major challenges in addressing multilingual bugs which cross different programming languages. In this paper, we present xLoc, a DL-based technique/tool for detecting and localizing multilingual bugs through pre-training and fine-tuning a Transformer model with customized position encoding. 
 
 * **[VGX: Large-Scale Sample Generation for Boosting Learning-Based Software Vulnerability Analyses](https://chapering.github.io/pubs/icse24yu.pdf)** \
