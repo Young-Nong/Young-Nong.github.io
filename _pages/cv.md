@@ -18,9 +18,17 @@ Education
 
 Publications
 ======
+* **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](https://dl.acm.org/doi/abs/10.1145/3760775)** \
+Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2025.* \
+we propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
+
 * **[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://chapering.github.io/pubs/sec25.pdf)** \
 **Yu Nong**, Haoran Yang, Long Cheng, Hongxin Hu, Haipeng Cai. *USENIX Security Symposium (USENIX Security), 2025.* \
 We leverage the power and merits of pre-trained language language models (LLMs) to enable automated vulnerability patching using our introduced vulnerability semantics reasoning and adaptive prompting to elicit LLMs to effectively reason about vulnerable code behaviors, which is essential for quality patch generation.
+
+* **[Code Speaks Louder: Exploring Security and Privacy Relevant Regional Variations in Mobile Applications](https://www.researchgate.net/profile/Haipeng-Cai/publication/391219288_Code_Speaks_Louder_Exploring_Security_and_Privacy_Relevant_Regional_Variations_in_Mobile_Applications/links/680ef6f4df0e3f544f4bebdd/Code-Speaks-Louder-Exploring-Security-and-Privacy-Relevant-Regional-Variations-in-Mobile-Applications.pdf)** \
+Jiawei Guo, **Yu Nong**, Zhiqiang Lin, Haipeng Cai. *IEEE Symposium on Security and Privacy (SP), 2025.* \
+We develop FREELENS, a novel framework that overcomes key technical challenges including code obfuscation and analysis scalability to identify and characterize security relevant variations across regions. Our findings reveal that GFDs are widespread, with significant variations in advertising, data handling, and authentication mechanisms. These differences frequently compromise security baselines and introduce disparities in privacy protections across regions, highlighting the urgency for harmonized privacy and security standards.
 
 * **[Chain-of-thought prompting of large language models for discovering and fixing software vulnerabilities](https://arxiv.org/pdf/2402.17230)** \
 **Yu Nong**, Mohammed Aldeen, Long Cheng, Hongxin Hu, Feng Chen, Haipeng Cai. *Under Review, 2025.* \
