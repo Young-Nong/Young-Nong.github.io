@@ -20,7 +20,7 @@ Publications
 ======
 * **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](https://dl.acm.org/doi/abs/10.1145/3760775)** \
 Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2025.* \
-we propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
+We propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
 
 * **[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://chapering.github.io/pubs/sec25.pdf)** \
 **Yu Nong**, Haoran Yang, Long Cheng, Hongxin Hu, Haipeng Cai. *USENIX Security Symposium (USENIX Security), 2025.* \
