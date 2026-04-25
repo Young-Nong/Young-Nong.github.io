@@ -7,6 +7,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+**[Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models](https://chapering.github.io/pubs/icse26guangbei.pdf)** \
+Yi, Guangbei, **Yu Nong**, Minzhang Li, and Haipeng Cai. *IEEE/ACM International Conference on Software Engineering (ICSE), 2026* \
+We explore the potential and gaps of LLMs in realistic vulnerability data generation. With advanced prompting strategies such as few-shot in-context learning and our new vulnerability-introducing code-change semantics (VICS) guided prompting, LLMs achieves up to 88% success rate on real-world vulnerable code generation. The LLM-generated vulnerability data substantially improves the performance of downstream DL-based vulnerability analysis models, boosting their accuracy by up to 70.1%.
+
 **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](https://dl.acm.org/doi/abs/10.1145/3760775)** \
 Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2025.* \
 We propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
