@@ -12,7 +12,7 @@ My research lies at the intersection of Software Engineering, Software Security,
 
 - # News
 
-- **04/2026:** I will join the Department of Computer Science and Engineering at **Oakland University** as an incoming tenure-track Assistant Professor in Fall 2026.
+- **04/2026:** I will join the Department of Computer Science and Engineering at **Oakland University** as an Assistant Professor in Fall 2026.
 - **04/2026:** I successfully defended my **Ph.D. dissertation** at the University at Buffalo.
 - **10/2025:** Our paper Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models was accepted to **ICSE 2026**.
 - **08/2025:** I presented our paper APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching at **USENIX Security 2025** in Seattle, WA.
