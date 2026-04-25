@@ -18,7 +18,7 @@ We welcome applicants with backgrounds in computer science, software engineering
 
 Interested students should email me at **yu.nongsss@gmail.com** with their CV, transcript, a brief description of research interests, and any relevant publications, projects, GitHub links, or research experience.
 
-- # News
+# News
 
 - **04/2026:** I will join the Department of Computer Science and Engineering at **Oakland University** as a tenure-track assistant professor in Fall 2026.
 - **04/2026:** I successfully defended my **Ph.D. dissertation** at the University at Buffalo.
