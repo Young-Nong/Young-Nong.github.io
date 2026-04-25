@@ -10,6 +10,15 @@ redirect_from:
 
 My research lies at the intersection of Software Engineering, Software Security, and Artificial Intelligence. I develop data-centric and AI-assisted techniques for software vulnerability detection, classification, repair, benchmarking, and security dataset construction.
 
+# Research Interests
+
+- AI for software vulnerability analysis
+- LLM-based vulnerability detection, reasoning, and repair
+- Security dataset generation, quality, and benchmarking
+- Program analysis for software security
+- Proof-of-vulnerability generation and patch validation
+- Empirical software engineering and open science
+
 # Research Projects:
 
 **Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Analysis** \
