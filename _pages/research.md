@@ -3,9 +3,6 @@ permalink: /research/
 title: "Research"
 excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 My research lies at the intersection of Software Engineering, Software Security, and Artificial Intelligence. I develop data-centric and AI-assisted techniques for software vulnerability detection, classification, repair, benchmarking, and security dataset construction.
