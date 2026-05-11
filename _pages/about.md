@@ -10,6 +10,7 @@ I am an incoming tenure-track Assistant Professor in the Department of Computer 
 
 My research lies at the intersection of Software Engineering, Software Security, and Artificial Intelligence. I develop data-centric and AI-assisted techniques for software vulnerability detection, classification, repair, benchmarking, and security dataset construction.
 
+<!--
 # Prospective Students
 
 I am recruiting **one fully funded Ph.D. student** to join my group at Oakland University starting in **Fall 2026**. Spring 2027 admission may also be considered.
@@ -17,6 +18,7 @@ I am recruiting **one fully funded Ph.D. student** to join my group at Oakland U
 We welcome applicants with backgrounds in computer science, software engineering, cybersecurity, AI, data science, or related areas. Students with hands-on research ability, including programming, experiments, paper reading, system building, data analysis, or prior research/project experience, are especially encouraged to contact me.
 
 Interested students should email me at **yu.nongsss@gmail.com** with their CV, transcript, a brief description of research interests, and any relevant publications, projects, GitHub links, or research experience.
+-->
 
 # News
 
