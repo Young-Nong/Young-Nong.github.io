@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **[Assessing and Improving Prompting Large Language Models for Software Vulnerability Analysis](https://dl.acm.org/doi/abs/10.1145/3821416)** \
-**Yu Nong**, Guangbei Yi, Mohammed Aldeen, Long Cheng, Hongxin Hu, and Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2026* \
+**Yu Nong**, Guangbei Yi, Mohammed Aldeen, Long Cheng, Hongxin Hu, and Haipeng Cai. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026* \
 We present a comprehensive, large-scale empirical study of ten LLMs with seven prompting strategies versus nine traditional techniques on three vulnerability analysis tasks (detection, classification, and repair) against five real-world datasets. We show that, with existing prompting strategies, LLMs often struggle with practical vulnerability analysis and underperform the traditional approaches. Based on these findings, we improve the prompting with a vulnerability-specific adaptation of chain-of-thought (CoT), named Vulnerability-Semantics-guided Prompting (VSP). Our results show that VSP improves the performance of some of the LLMs in certain configurations across the three tasks.
 
 **[Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models](https://chapering.github.io/pubs/icse26guangbei.pdf)** \
@@ -16,7 +16,7 @@ Yi, Guangbei, **Yu Nong**, Minzhang Li, and Haipeng Cai. *IEEE/ACM International
 We explore the potential and gaps of LLMs in realistic vulnerability data generation. With advanced prompting strategies such as few-shot in-context learning and our new vulnerability-introducing code-change semantics (VICS) guided prompting, LLMs achieves up to 88% success rate on real-world vulnerable code generation. The LLM-generated vulnerability data substantially improves the performance of downstream DL-based vulnerability analysis models, boosting their accuracy by up to 70.1%.
 
 **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](https://dl.acm.org/doi/abs/10.1145/3760775)** \
-Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2025.* \
+Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025.* \
 We propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
 
 **[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://chapering.github.io/pubs/sec25.pdf)** \
@@ -28,7 +28,7 @@ Jiawei Guo, **Yu Nong**, Zhiqiang Lin, Haipeng Cai. *IEEE Symposium on Security 
 We develop FREELENS, a novel framework that overcomes key technical challenges including code obfuscation and analysis scalability to identify and characterize security relevant variations across regions. Our findings reveal that GFDs are widespread, with significant variations in advertising, data handling, and authentication mechanisms. These differences frequently compromise security baselines and introduce disparities in privacy protections across regions, highlighting the urgency for harmonized privacy and security standards.
 
 **[Chain-of-thought prompting of large language models for discovering and fixing software vulnerabilities](https://arxiv.org/pdf/2402.17230)** \
-**Yu Nong**, Mohammed Aldeen, Long Cheng, Hongxin Hu, Feng Chen, Haipeng Cai. *Under Review, 2025.* \
+**Yu Nong**, Mohammed Aldeen, Long Cheng, Hongxin Hu, Feng Chen, Haipeng Cai. 2025.* \
 We explore how to leverage large lange models and chain-of-thoughts to address three key software vulnerability analysis tasks: identifying a given type of vulnerabilities, discovering vulnerabilities of any type, and patching detected vulnerabilities.
 
 **[VinJ: An Automated Tool for Large-Scale Software Vulnerability Data Generation](https://chapering.github.io/pubs/nong24fsetool.pdf)** \
