@@ -21,7 +21,10 @@ Interested students should email me at **yu.nongsss@gmail.com** with their CV, t
 -->
 
 # News
-
+- **08/2025:** Our paper VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs was accepted to **ACM TOSEM**.
+- **12/2023:** Our paper Generating Vulnerable Code via Learning-Based Program Transformations was published in **AI Embedded Assurance for Cyber Systems**.
+- **01/2020:** Our paper A Preliminary Study on Open-Source Memory Vulnerability Detectors was accepted to **SANER 2020**.
+<!--
 - **10/2025:** Our paper Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models was accepted to **ICSE 2026**.
 - **08/2025:** I presented our paper APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching at **USENIX Security 2025** in Seattle, WA.
 - **08/2025:** I received a student travel grant from **USENIX Security 2025**.
@@ -33,5 +36,6 @@ Interested students should email me at **yu.nongsss@gmail.com** with their CV, t
 - **12/2022:** Our paper VulGen: Realistic Vulnerable Sample Generation via Pattern Mining and Deep Learning was accepted to **ICSE 2023**.
 - **09/2022:** Our paper Open Science in Software Engineering: A Study on Deep Learning-Based Vulnerability Detection was accepted to **IEEE TSE**.
 - **06/2022:** Our paper Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study was accepted to **FSE 2022**.
+-->
 
 
