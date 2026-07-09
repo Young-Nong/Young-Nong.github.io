@@ -6,6 +6,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 {% include base_path %}
+
 **[Assessing and Improving Prompting Large Language Models for Software Vulnerability Analysis](https://dl.acm.org/doi/abs/10.1145/3821416)** \
 **Yu Nong**, Guangbei Yi, Mohammed Aldeen, Long Cheng, Hongxin Hu, and Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2026* \
 We present a comprehensive, large-scale empirical study of ten LLMs with seven prompting strategies versus nine traditional techniques on three vulnerability analysis tasks (detection, classification, and repair) against five real-world datasets. We show that, with existing prompting strategies, LLMs often struggle with practical vulnerability analysis and underperform the traditional approaches. Based on these findings, we improve the prompting with a vulnerability-specific adaptation of chain-of-thought (CoT), named Vulnerability-Semantics-guided Prompting (VSP). Our results show that VSP improves the performance of some of the LLMs in certain configurations across the three tasks.
