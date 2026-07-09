@@ -18,18 +18,21 @@ Education
 
 Publications
 ======
-
+<!--
 * **[Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models](https://chapering.github.io/pubs/icse26guangbei.pdf)** \
 Yi, Guangbei, **Yu Nong**, Minzhang Li, and Haipeng Cai. *IEEE/ACM International Conference on Software Engineering (ICSE), 2026* \
 We explore the potential and gaps of LLMs in realistic vulnerability data generation. With advanced prompting strategies such as few-shot in-context learning and our new vulnerability-introducing code-change semantics (VICS) guided prompting, LLMs achieves up to 88% success rate on real-world vulnerable code generation. The LLM-generated vulnerability data substantially improves the performance of downstream DL-based vulnerability analysis models, boosting their accuracy by up to 70.1%.
+-->
 
 * **[VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs](https://dl.acm.org/doi/abs/10.1145/3760775)** \
 Seyed Shayan Daneshvar, **Yu Nong**, Xu Yang, Shaowei Wang, Haipeng Cai. *ACM Transactions on Software Engineering and Methodology, 2025.* \
 We propose VulScribeR, a novel LLM-based solution that leverages carefully curated prompt templates to augment vulnerable datasets. We explore three strategies to augment both single and multi-statement vulnerabilities, with LLMs. Our extensive evaluation across four vulnerability datasets and DLVD models show that our approach beats two SOTA methods Vulgen and VGX, and Random Oversampling in generating vulnerable samples.
 
+<!--
 * **[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://chapering.github.io/pubs/sec25.pdf)** \
 **Yu Nong**, Haoran Yang, Long Cheng, Hongxin Hu, Haipeng Cai. *USENIX Security Symposium (USENIX Security), 2025.* \
 We leverage the power and merits of pre-trained language language models (LLMs) to enable automated vulnerability patching using our introduced vulnerability semantics reasoning and adaptive prompting to elicit LLMs to effectively reason about vulnerable code behaviors, which is essential for quality patch generation.
+
 
 * **[Code Speaks Louder: Exploring Security and Privacy Relevant Regional Variations in Mobile Applications](https://www.researchgate.net/profile/Haipeng-Cai/publication/391219288_Code_Speaks_Louder_Exploring_Security_and_Privacy_Relevant_Regional_Variations_in_Mobile_Applications/links/680ef6f4df0e3f544f4bebdd/Code-Speaks-Louder-Exploring-Security-and-Privacy-Relevant-Regional-Variations-in-Mobile-Applications.pdf)** \
 Jiawei Guo, **Yu Nong**, Zhiqiang Lin, Haipeng Cai. *IEEE Symposium on Security and Privacy (SP), 2025.* \
@@ -72,6 +75,7 @@ A study that explores the feasibility of vulnerability injection through neural 
 * **[Evaluating and comparing memory error vulnerability detectors](https://www.researchgate.net/publication/351374599_Evaluating_and_comparing_memory_error_vulnerability_detectors)** \
 **Yu Nong**, Haipeng Cai, Pengfei Ye, Li Li, Feng Chen. *Information and Software Technology (IST), 137, 106614. 2021* \
 An empirical study that evaluates and compares state-of-the-art memory error vulnerability detectors against publicly available benchmark datasets of C/C++ programs, with case studies to gain in-depth explanations of successes and failures of individual tools.
+-->
 
 * **[A Preliminary Study on Open-Source Memory Vulnerability Detectors](https://www.researchgate.net/publication/340402566_A_Preliminary_Study_on_Open-Source_Memory_Vulnerability_Detectors)** \
 **Yu Nong**, Haipeng Cai. *IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 557-561). 2020* \
