@@ -20,6 +20,10 @@ We welcome applicants with backgrounds in computer science, software engineering
 Interested students should email me at **yu.nongsss@gmail.com** with their CV, transcript, a brief description of research interests, and any relevant publications, projects, GitHub links, or research experience.
 -->
 
+# Prospective Ph.D. Students
+
+I am not accepting additional Ph.D. students at this moment. Please check back for updates!
+
 # News
 - **06/2026:** Our paper Assessing and Improving Prompting Large Language Models for Software Vulnerability Analysis was accepted to **ACM TOSEM**.
 - **04/2026:** I will join the Department of Computer Science and Engineering at **Oakland University** as a tenure-track assistant professor in Fall 2026.
